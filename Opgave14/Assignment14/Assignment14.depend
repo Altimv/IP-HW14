@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1515617797 source:d:\documents\radboud informatica\propedeuse\semester 1\imperatief programmeren\opgave14\assignment14\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<cassert>
+
